@@ -8,9 +8,14 @@ function Footer() {
     <div>
       <hr id="line" />
       <div id="footer">
-        <img src={Zuri} alt="Zuri Internship" id="zuri" />
+        <img src={Zuri} alt="Zuri Internship" id="zuri" className="footerImg" />
         <p>HNG Internship 9 Frontend Task</p>
-        <img src={I4G} alt="Ingressive For Good" id="i4g" />
+        <img
+          src={I4G}
+          alt="Ingressive For Good"
+          id="i4g"
+          className="footerImg"
+        />
       </div>
     </div>
   );
