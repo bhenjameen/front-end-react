@@ -1,0 +1,18 @@
+#profile {
+  padding: 70px 0 30px 0;
+}
+
+#profile_img {
+  border-radius: 50%;
+  width: 88px;
+}
+
+#twitter {
+  color: #101828;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+#slack {
+  display: none;
+}

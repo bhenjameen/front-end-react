@@ -1,0 +1,15 @@
+#line {
+  height: 1px;
+  width: 85%;
+  margin-top: 85px;
+  background-color: #eaecf0;
+  border: none;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 6.3em 40px;
+  color: #667085;
+}
